@@ -1,6 +1,6 @@
 """import cv2
 import numpy as np
-#this edit was made in Git
+#this edit was made in Git boyo
 img = cv2.imread('fantasy-wallpaper-22.jpg')
 for i in range (100):
     for g in range (100):
